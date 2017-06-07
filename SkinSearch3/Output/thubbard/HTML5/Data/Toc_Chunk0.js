@@ -1,0 +1,1 @@
+define({'/Content/Link.htm':{i:[1],t:['Link'],b:['']},'/Content/red.htm':{i:[0],t:['red'],b:['']}});

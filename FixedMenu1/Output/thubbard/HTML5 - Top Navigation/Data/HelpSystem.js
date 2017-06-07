@@ -1,0 +1,8 @@
+var xmlHelpSystemData = "";
+xmlHelpSystemData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlHelpSystemData += '<WebHelpSystem DefaultUrl=\"Content/Home.htm\" Toc=\"Data/Toc.js\" Index=\"Data/Index.js\" Concepts=\"Data/Concepts.js\" BrowseSequence=\"Data/BrowseSequence.js\" Glossary=\"Data/Glossary.js\" SearchDatabase=\"Data/Search.js\" Synonyms=\"Data/Synonyms.xml\" PathToScriptsFolder=\"Resources/Scripts/\" SkinName=\"NewSkin2\" SkinID=\"NewSkin2\" Multilingual=\"false\" Skins=\"NewSkin2\" BuildTime=\"5/19/2017 10:21:02 AM\" BuildVersion=\"13.2.6334.20174\" TargetType=\"WebHelp2\" SkinTemplateFolder=\"Skin/\" InPreviewMode=\"false\" TopNavTocPath=\"true\" MoveOutputContentToRoot=\"false\" ReplaceReservedCharacters=\"false\" MakeFileLowerCase=\"false\" UseCustomTopicFileExtension=\"false\" PreventExternalUrls=\"false\" EnableResponsiveOutput=\"true\" IncludeGlossarySearchResults=\"true\" ResultsPerPage=\"10\" xml:lang=\"en-us\" LanguageName=\"English\" SearchEngine=\"MadCapSearch\">';
+xmlHelpSystemData += '    <CatapultSkin Version=\"2\" SkinType=\"WebHelp2\" Comment=\"HTML5 Default Tripane skin\" Anchors=\"Width,Height\" Width=\"800\" Height=\"600\" Top=\"0\" Left=\"0\" Bottom=\"0\" Right=\"0\" Tabs=\"TOC,Index,Community\" DefaultTab=\"TOC\" UseBrowserDefaultSize=\"True\" UseDefaultBrowserSetup=\"True\" EnableResponsiveOutput=\"True\" Name=\"NewSkin2\" SkinID=\"NewSkin2\" SkinClass=\"_Skins_NewSkin2\" HideNavOnStartup=\"True\" LogoUrl=\"\">';
+xmlHelpSystemData += '        <WebHelpOptions HideNavigationOnStartup=\"true\" />';
+xmlHelpSystemData += '    </CatapultSkin>';
+xmlHelpSystemData += '</WebHelpSystem>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('HelpSystem', xmlHelpSystemData);

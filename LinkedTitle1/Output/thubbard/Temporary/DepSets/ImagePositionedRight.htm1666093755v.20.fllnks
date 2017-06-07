@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="Content/Resources/Images/Image.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="Content/Resources/Images/Image.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Images:positioned right"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Images"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/MainStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

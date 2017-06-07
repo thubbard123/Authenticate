@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links />
+  <LongLinks />
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Lists"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Lists:numbered"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Numbered lists"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Lists:bulleted"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Bulleted lists"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Lists:multi-level"
+      Conditions=""
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="Multi-level lists"
+      Conditions=""
+      LocalConditions=""
+      Position="48" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="LinksLists"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+  </Concepts>
+  <ConceptControlNames>
+    <ConceptControlName
+      Term="LinksLists" />
+  </ConceptControlNames>
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="TitlePage"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Title.flpgl" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" />
+  <TocEntry
+    Title="All About San Diego"
+    Link="/Content/AllAboutSanDiego.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright" />
+  <TocEntry
+    Title="San Diego Attractions"
+    Link="/Content/SanDiegoAttractions.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+  <TocEntry
+    Title="San Diego Cuisine"
+    Link="/Content/SanDiegoCuisine.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="Food"
+      Link="/Content/Food.htm" />
+    <TocEntry
+      Title="Beer"
+      Link="/Content/Beer.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="References"
+    Link="/Content/PrintOnlyTopics/Resources.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

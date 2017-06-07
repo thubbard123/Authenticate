@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="20841" MadCap:lastWidth="907">
+	<head>
+		<link href="../../Resources/Stylesheets/ReleaseNotesStyles.css" rel="stylesheet" />
+	</head>
+	<body>
+		<h2>All Species Enhancements</h2>
+		<p>This section includes enhancements that were made to all systems for all species.</p>
+		<h3>System Setup</h3>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-10T13:55:59.2556201-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="55604" MadCap:editor="r068192" MadCap:editDate="2017-05-10T13:56:00.1007046-05:00">Delete</MadCap:annotation> Multiple Obsolete Nutrients</h4>
+		<p>When a nutrient is inactivated in Formulation Cloud, it becomes obsolete for use within the client. The inactivated nutrient will be highlighted in yellow in the Master Nutrients window, and the check box in the Obsolete column will be selected.</p>
+		<p class="keep">For example, the following image shows that the &lt;SWDIGPHOS nutrient is obsolete since it has a yellow background:</p>
+		<p>
+			<img src="../../Resources/Images/R21/ObsoleteNutrients.png">
+			</img>
+		</p>
+		<p>Obsolete nutrients should be deleted from all diets and products in the client, as the nutrient is no longer valid for use.</p>
+		<h5>How to Delete Obsolete Nutrients:</h5>
+		<ol>
+			<li>
+				<p>In the <b>Master Nutrients</b> window, identify obsolete nutrients by finding the ones that are highlighted in yellow and have the <b>Obsolete</b> check box selected.</p>
+				<div class="Tip">
+					<p MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #000000;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">Click the <b>Obsolete</b> column heading to sort the nutrient list and group all obsolete nutrients together.</p>
+				</div>
+			</li>
+			<li>Select the obsolete nutrients that you want to delete.</li>
+			<li>
+				<p>Click the <b>Delete</b> button <img src="../../../../MAXUserGuide/Content/Resources/Images/DeleteButton.png"></img>. The confirmation window appears.</p>
+				<p>If the nutrients are being used in any product or diet, and the nutrients have a minimum or maximum constraint, the associated products and diets will be listed. This allows you to adjust the nutrients in the associated products or diets if needed before deleting the nutrients.</p>
+				<p>If the nutrients are being used in any product or diet, but the nutrient does not have a minimum or maximum constraint, the associated products and diets will not be listed.</p>
+				<p class="keep">For example, the following image shows that the obsolete nutrient, Niacin (B3), is used in multiple products and diets:</p>
+				<p>
+					<img src="../../Resources/Images/R21/ObsoleteNutrients2.png" class="thumb">
+					</img>
+				</p>
+			</li>
+			<li>
+				<p>Click the <b>Delete</b> button to continue the deleting process.</p>
+				<p class="CellBody">Click <b>Cancel</b> if you want to make adjustments to the nutrient constraints in the associated products or diets before you delete the nutrients.</p>
+				<p class="CellBody">The deleted nutrients will be removed from all diets and products in which they were used.</p>
+				<div class="BodyNOTE">
+					<p MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #000000;&quot; class=&quot;mcFormatColor&quot;&gt;NOTE: &lt;/span&gt;&lt;/b&gt;">The status of diets and products that contain obsolete nutrients that have either a minimum or maximum constraint changes to unformulated when the obsolete nutrient is deleted. The status of diets or products that contained the deleted nutrient that had no constraints does not change.</p>
+				</div>
+			</li>
+		</ol>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T08:31:40.9681447-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="107178" MadCap:editor="r068192" MadCap:editDate="2017-05-11T08:31:41.8081447-05:00">New</MadCap:annotation> Lab Field for Importing Data from Non-Cargill Labs</h4>
+		<div class="BodyNOTE">
+			<p MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #000000;&quot; class=&quot;mcFormatColor&quot;&gt;NOTE: &lt;/span&gt;&lt;/b&gt;">
+			<MadCap:annotation MadCap:createDate="2017-05-10T14:56:21.1436179-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="Import and Apply a Lab Sample topic has this note - is it obsolete?" MadCap:editor="r068192" MadCap:editDate="2017-05-10T14:56:36.6566179-05:00">Currently</MadCap:annotation> lab samples can only be imported from the Cargill lab in Elk River because they use a special XML&#160;format.</p>
+		</div>
+		<p>A new field named, "Lab", has been added to the Lab Analysis window that provides the ability to import ingredient nutrient results from a non-Cargill lab.</p>
+		<p>The new Lab field is shown in the following image:</p>
+		<p>
+			<img src="../../Resources/Images/R21/LabAnalysis.png" class="thumb">
+			</img>
+		</p>
+		<p>Before importing a lab sample, you should select the applicable lab from the drop-down menu. The program will retrieve and execute the file parsing and expression rules defined for the selected lab.</p>
+		<div class="BodyFEATURE">
+			<p MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #000000;&quot; class=&quot;mcFormatColor&quot;&gt;FEATURE: &lt;/span&gt;&lt;/b&gt;">Access to the Lab field is controlled in Formulation Cloud. If you want access to this feature, contact your manager or business representative who will work with the species gatekeeper and <a href="../../../../MAXUserGuide/Content/Introduction/How to Get Help.htm">IT support</a> to determine if you will be given access to this feature.</p>
+		</div>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T08:52:56.9050889-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="seems more of a cloud item" MadCap:editor="r068192" MadCap:editDate="2017-05-11T08:53:04.2340889-05:00">103224</MadCap:annotation>-Client - Get the language/culture translations sent from the Formulation Cloud working in the MAX client</h4>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T08:59:40.6774464-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="101301\r\n\r\nthese are local backups, correct? user best practice is to store a backup in a separate location not on their hard disk, corrrect?\r\n\r\nhow is backup location determined? manual process allows user to select location" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:19:54.3908856-05:00">Only</MadCap:annotation> Current and Previous Database Backups Are Retained</h4>
+		<p>When you install the program for the first time or upgrade the program to a new version, old backups of the database will automatically be deleted. This will conserve hard disk space as only two database backups – the current and previous – will be retained. Previously, all database backups were being retained.</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T09:20:03.6018856-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="93135" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:20:04.5188856-05:00">New</MadCap:annotation> Ability to Delete Old Database Backups</h4>
+		<p>When you back up your database, you can now delete old database backups. </p>
+		<h5>How to Delete Old Database Backups</h5>
+		<ol>
+			<li>Go to the System Setup &gt;&#160;Utilities &gt;&#160;System Data tab.</li>
+			<li>Click the Backup Database button.</li>
+			<li>Select the location to save the backup file.</li>
+			<li>Click Save.</li>
+			<li>
+				<p>After the backup has been saved, you will be prompted to open the backup location where you can manually delete old backup files that are no longer needed:</p>
+				<p>
+					<img src="../../Resources/Images/R21/BackupDatabase.png">
+					</img>
+				</p>
+			</li>
+			<li>In the Windows Explorer window, delete <MadCap:annotation MadCap:createDate="2017-05-11T09:19:13.0308856-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="best practice to retain current and previous?" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:19:25.9608856-05:00">old backup files </MadCap:annotation>as needed.</li>
+			<li>You should save your database backups to the same location each time for this process to be effective. If you don't follow this procedure, you are responsible for deleting your other outdated backups from other locations. </li>
+		</ol>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T09:36:30.4667428-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="seems behind the scenes or FC" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:36:44.9687428-05:00">101334</MadCap:annotation>-Client - Create a program and process to clean out Transfer data from the server</h4>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T09:37:10.7307428-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="101335" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:37:12.3347428-05:00">101335</MadCap:annotation>-Client - Create a program and process to clean out File Drop data from the server</h4>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T09:47:26.1709906-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="93865" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:47:26.8940629-05:00">New</MadCap:annotation> Message When Deleting Suppliers That Have Ingredients or Products in Use</h4>
+		<p>When you attempt to delete a supplier in Utilities &gt;&#160;Suppliers tab whose ingredients or products are being used, a new message appears that identifies which ingredients or products from that supplier are being used in a <MadCap:annotation MadCap:createDate="2017-05-11T09:46:01.3435087-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="Is this right or is it Site-Ingredients?" MadCap:editor="r068192" MadCap:editDate="2017-05-11T09:46:25.9609702-05:00">diet or product</MadCap:annotation>. </p>
+		<p>For example, the following image shows that the supplier is used in an ingredient.</p>
+		<p>
+			<img src="../../Resources/Images/R21/DeleteSupplierMessage.png">
+			</img>
+		</p>
+		<p>Before you can delete the supplier, you must remove the associated ingredient or product from the applicable diet or product as listed.</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T10:10:30.4505414-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="102862" MadCap:editor="r068192" MadCap:editDate="2017-05-11T10:10:30.9315414-05:00">New</MadCap:annotation> Default Options for Freight Type and Amount</h4>
+		<p>You now have the ability to set default options for the freight type and freight amount.</p>
+		<p>The new options appear in the Customer Setup area of the Option-Preferences tab as shown in the following image:</p>
+		<p>
+			<img src="../../Resources/Images/R21/DefaultFreight.png" class="thumb">
+			</img>
+		</p>
+		<p>The default options you set here will automatically appear on the Product Price tab after you create a new custom or third-party product.</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T10:15:47.5655414-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="100891" MadCap:editor="r068192" MadCap:editDate="2017-05-11T10:15:48.1915414-05:00">EULA</MadCap:annotation> Updated with Format Solutions Brand</h4>
+		<p>The End User License Agreement has been updated to reflect our new business brand, Format Solutions.</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T10:18:36.7810517-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="49523\r\n\r\ndo we need to say why this change was made for support?" MadCap:editor="r068192" MadCap:editDate="2017-05-11T10:19:01.0414775-05:00">New</MadCap:annotation> Location for Installation Files</h4>
+		<p>The software installation files that are created with a new installation or an upgrade are now saved to the following directory:</p>
+		<p>C:\Source\Library\Format Solutions\MAX</p>
+		<h3>Customer</h3>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-08T07:57:07.7809646-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="42186" MadCap:editor="r068192" MadCap:editDate="2017-05-08T07:57:08.8150680-05:00">Seconds</MadCap:annotation> Removed from Last Updated Time in the Customer List</h4>
+		<p>Seconds have been removed from the time displayed in the Last Updated field column in the Customer List. The time now displays hours, minutes, and AM/PM.</p>
+		<h3>Site</h3>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-08T08:53:26.0919818-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="42424\r\n\r\nTFS flag is Dairy?" MadCap:editor="r068192" MadCap:editDate="2017-05-08T08:53:27.2530979-05:00">Get</MadCap:annotation> Customer Blend Enhancements</h4>
+		<p>The Get Customer Blend process has been redesigned. You can now map/assign incoming ingredients to existing site ingredients or mark them as new before they are imported. This will prevent duplicate ingredients from appearing in the Site-Ingredients list after you get a blend from a different customer.</p>
+		<p>The Get Customer Blend window now appears within the main customer window as shown in the following image:</p>
+		<p>
+			<img src="../../Resources/Images/R21/GetCustomerBlend.png" class="thumb" />
+		</p>
+		<p>The new columns in the Ingredients grid are:</p>
+		<ul>
+			<li>
+				<p><b>New</b> – Select this option to import an incoming ingredient as a new ingredient for the current customer. If there are no matching ingredients, this option is automatically selected.</p>
+				<p>Ingredients marked New appear in the Site-Ingredients list with the ingredient name followed by the blend name and customer name in parentheses. For example, Corn DDGS in the above image will appear as "Corn DDGS Test Blend Name(Test Customer)".</p>
+			</li>
+			<li><b>Target Ingredient</b> – Use this drop-down menu to assign a blend ingredient to an existing site ingredient that has the same ingredient number and subcode. If there are no matching ingredients, this field is disabled and the New option will be selected.</li>
+		</ul>
+		<p>8. Validate that in Nutrient grid, column 'Current' represents nutrient composition from the source blend.</p>
+		<p>9. Validate that if user checks 'New' then the 'New' column represents nutrient composition from the source blend.</p>
+		<p>10. Validate that if user matches the source blend ingredient to the target then the 'New' column represents the nutrient composition from target site ingredient.</p>
+		<p>What happens to the values if ingredient is mapped?&#160;override Price and Nutrients?</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-08T12:12:10.1619721-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="97450 - this seems more like a bug" MadCap:editor="r068192" MadCap:editDate="2017-05-08T12:12:18.7949721-05:00">Update</MadCap:annotation> Nutrients Command in Right-click Context Menu on the Site-Ingredients Tab</h4>
+		<p>The Update Nutrients command in the right-click content menu on the Site-Ingredients tab was sometimes unavailable for eligible ingredients. This has been corrected.</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-09T13:13:54.2455960-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="97397" MadCap:editor="r068192" MadCap:editDate="2017-05-09T14:06:11.8393569-05:00">Ingredient</MadCap:annotation> Name Color on Site-Ingredients Tab Not Turning from Blue to Black</h4>
+		<p>In the Ingredients grid, the ingredient name will now turn from blue to black in the following scenarios:</p>
+		<ul>
+			<li>On the Site-Ingredients tab, for an ingredient that has its name highlighted in a blue font and has nutrients that have a green and yellow background color, as you enter a value into the Amount AF or Amount DM column and tab out of the field for these nutrients, the background color of the nutrient will no longer be green or yellow. If you enter values into ALL the nutrients that are green and yellow, if you move off the ingredient and go to another one, the ingredient name will remain blue.</li>
+			<li>On the Site-Ingredients tab, after the AutoCalc program is run on an ingredient that has its name highlighted in a blue font and has some nutrients that have a green and yellow background color, those nutrients that were green and yellow and have had their values updated by AutoCalc in the Amount AF or Amount DM columns, the background color for these nutrients will no longer be green or yellow. If AutoCalc happened to update the values in all of the nutrients that were green and yellow, if you move off the ingredient and go to another one, the ingredient name will remain blue.</li>
+			<li>In the Quick Update window, for an ingredient that has its name highlighted in a blue font and has nutrients that have a green and yellow background color on the Site-Ingredients tab, after you enter a nutrient value for a highlighted nutrient and return to the Site-Ingredients tab, the background color of the nutrient will no longer be green or yellow. If you enter values into ALL the nutrients that are green and yellow for an ingredient, if you move off the ingredient and go to another one, the ingredient name will remain blue.</li>
+			<li>In the Lab Analysis window, after a lab analysis file is imported and an ingredient is selected that is blue on the Site-Ingredients tab and the Update button is clicked.</li>
+		</ul>
+		<h3>Diets</h3>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-11T14:45:09.4438642-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="103234" MadCap:editor="r068192" MadCap:editDate="2017-05-11T14:45:14.2154323-05:00">Diet</MadCap:annotation> Name Increased to 30 Characters</h4>
+		<p>Diet names can now be up to 30 characters long, up from the previous 20-character limit.</p>
+		<h4>
+		<MadCap:annotation MadCap:createDate="2017-05-04T12:54:36.4975695-05:00" MadCap:creator="r068192" MadCap:initials="RH" MadCap:comment="89775" MadCap:editor="r068192" MadCap:editDate="2017-05-04T12:54:37.5586756-05:00">New</MadCap:annotation> View Options on the Diets-Analyze Tab</h4>
+		<p>The following layout options have been added to the View menu on the Diets-Analyze tab:</p>
+		
+		
+	
+
+	
+	
+		
+		
+	</body>
+</html>

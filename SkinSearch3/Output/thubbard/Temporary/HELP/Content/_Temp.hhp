@@ -1,0 +1,110 @@
+[WINDOWS]
+Default="","_Temp.hhc","_Temp.hhk","red.htm","red.htm","red.htm","","red.htm","",0x520,250,0x10287e,[560,240,1360,840],0xcf0000,0x100,,0,0,0
+HTML5 - Top Navigation="","_Temp.hhc","_Temp.hhk","red.htm","red.htm","red.htm","","red.htm","",0x100,250,0x0,[0,0,500,500],0xcf0000,0x100,,0,0,0
+HTML5 - Tripane="","_Temp.hhc","_Temp.hhk","red.htm","red.htm","red.htm","","red.htm","",0x120,250,0x0,[560,240,1360,840],0xcf0000,0x100,,0,0,0
+
+[OPTIONS]
+Compiled File=HELP.chm
+Title=
+Default topic=
+Default window=Default
+Error log file=
+Display compile progress=yes
+Display compile notes=yes
+Full-text search=yes
+Binary TOC=no
+Binary Index=yes
+Flat=no
+Auto Index=no
+Enhanced decompilation=no
+Contents File=_Temp.hhc
+Index File=_Temp.hhk
+Language=0x0409 English (United States)
+
+[FILES]
+red.htm
+Topic.htm
+Link.htm
+Data/SkinDefault/NavigationBottomGradient.jpg
+Data/SkinDefault/TocIcon.gif
+SkinSupport/jquery.js
+Data/SkinDefault/AddComment_selected.gif
+SkinSupport/Slideshow.css
+Data/SkinDefault/AddComment.gif
+SkinSupport/MadCapUtilities.js
+Data/SkinDefault/CommunityAccordionBackground_over.jpg
+Data/SkinDefault/BookOpen.gif
+Data/SkinDefault/SearchAccordionBackground.jpg
+Data/SkinDefault/GlossaryAccordionBackground.jpg
+Data/SkinDefault/RefreshTopicComments_over.gif
+SkinSupport/DropDownOpen.gif
+Data/SkinDefault/CommunityAccordionBackground.jpg
+Data/SkinDefault/Delete_selected.gif
+SkinSupport/MadCapBody.js
+Data/SkinDefault/header.png
+Data/SkinDefault/Stylesheet.xml
+Data/HelpSystem.xml
+SkinSupport/MadCapEffectsMenu.js
+Data/SkinDefault/Topic.gif
+SkinSupport/MadCap.css
+Data/SkinDefault/CommentReply.gif
+Data/SkinDefault/NavigationBottomGradient_selected.jpg
+Data/SkinDefault/Comment.gif
+SkinSupport/Images/MCSlider_loader.gif
+Data/SkinDefault/ReplyComment_selected.gif
+Data/SkinDefault/SearchAccordionBackground_over.jpg
+SkinSupport/MadCapMerging.js
+Data/SkinDefault/NavigationTopGradient.jpg
+Data/SkinDefault/AddComment_over.gif
+Data/SkinDefault/AccordionIconsBackground.jpg
+Resources/Stylesheets/Styles.css
+SkinSupport/MadCapHighlighter.js
+Data/SkinDefault/AddSearchToFavorites_over.gif
+SkinSupport/Images/MCSlider_controls.png
+Data/SkinDefault/RefreshTopicComments.gif
+Data/SkinDefault/BrowsesequencesIcon.gif
+Data/SkinDefault/SearchBG.png
+Data/SkinDefault/Delete_over.gif
+Resources/Stylesheets/Modern.css
+Data/SkinDefault/FavoritesAccordionBackground_over.jpg
+Data/SkinDefault/IndexAccordionBackground_over.jpg
+Data/SkinDefault/BrowsesequencesAccordionBackground_over.jpg
+SkinSupport/MadCapSlideshow.js
+Data/SkinDefault/AddSearchToFavorites_selected.gif
+HELP.xml
+Data/SkinDefault/IndexIcon.gif
+SkinSupport/MadCapBodyEnd.js
+Data/SkinDefault/GlossaryIcon.gif
+Data/SkinDefault/TocAccordionBackground_over.jpg
+Data/SkinDefault/AddSearchToFavorites.gif
+Data/SkinDefault/Skin.xml
+Data/SkinDefault/GlossaryAccordionBackground_over.jpg
+Data/SkinDefault/ReplyComment.gif
+Data/SkinDefault/FavoritesAccordionBackground.jpg
+SkinSupport/MadCapAliasFile.js
+Data/SkinDefault/SearchIcon.gif
+Data/SkinDefault/IndexAccordionBackground.jpg
+Data/Alias.xml
+Data/SkinDefault/CommunityIcon.gif
+Data/SkinDefault/TocAccordionBackground.jpg
+Data/SkinDefault/ToolbarBackground.jpg
+SkinSupport/MadCapEffects.js
+SkinSupport/MadCapGlobal.js
+Data/SkinDefault/IndexHeadingBG.png
+Data/SkinDefault/BrowsesequencesAccordionBackground.jpg
+Data/SkinDefault/ReplyComment_over.gif
+Data/SkinDefault/Delete.gif
+Data/SkinDefault/Book.gif
+Data/SkinDefault/FavoritesIcon.gif
+Data/SkinDefault/RefreshTopicComments_selected.gif
+SkinSupport/DropDownClosed.gif
+
+[ALIAS]
+#include _Temp.ali
+
+[MAP]
+#include HeaderFile.h
+
+
+[TEXT POPUPS]
+

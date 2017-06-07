@@ -1,0 +1,874 @@
+/*<meta />*/
+
+.Name,
+.XRef,
+.DataType,
+.Italic
+{
+	font-style: italic;
+}
+
+.Parameter,
+.Bold
+{
+	font-weight: bold;
+}
+
+.Code,
+.Member,
+.NetType
+{
+	font-family: 'Courier New';
+}
+
+.Dyalog,
+.DyalogPlain,
+.DyalogDefault,
+.APLCode,
+.APLCodeSmall,
+.APLCodeNoIndent,
+.UserCommand,
+.UserCommandArg,
+.UserCommandSwitch,
+.UserCommandValue
+{
+	font-family: 'APL385 Unicode';
+}
+
+body
+{
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-size: 10pt;
+	margin-left: 6pt;
+	mc-hyphenate: never;
+}
+
+h1,
+h2,
+h3,
+h4
+{
+	margin-left: 0;
+}
+
+h1,
+h2,
+h3,
+h4
+{
+	font-weight: bold;
+}
+
+h2,
+h3,
+h4,
+p,
+pre
+{
+	margin-bottom: 6pt;
+}
+
+h4.Note,
+h4.NoteNewPage
+{
+	margin-bottom: 0;
+}
+
+ol.Note,
+ul.Note
+{
+	margin-top: 3pt;
+}
+
+h2,
+h3
+{
+	font-size: 140%;
+}
+
+h4
+{
+	font-size: 125%;
+	margin-top: 9pt;
+}
+
+h4.Example,
+h4.Note
+{
+	font-size: 110%;
+}
+
+p.pagebreakafter
+{
+	margin: 0;
+	display: none;
+}
+
+ol,
+ul
+{
+	margin-left: 1.3cm;
+}
+
+ol.Level2
+{
+	margin-left: 0.7cm;
+	list-style-type: lower-alpha;
+}
+
+ul.Level2
+{
+	margin-left: 0.7cm;
+	list-style-type: circle;
+}
+
+p.Num0,
+p.Num1
+{
+	font-size: 125%;
+	font-weight: bold;
+}
+
+p.Num0
+{
+	mc-auto-number-format: 'L:{n=0}. ';
+}
+
+p.Num1
+{
+	mc-auto-number-format: 'L:{n+}. ';
+}
+
+p.Num2
+{
+	mc-auto-number-format: 'L:{ }{a+}) ';
+	margin-left: 1.5cm;
+}
+
+p.Num3
+{
+	mc-auto-number-format: 'L:{ }{ }{n=0}) ';
+}
+
+p.Num4
+{
+	mc-auto-number-format: 'L:{ }{ }{n+}) ';
+}
+
+p.Num3,
+p.Num4
+{
+	margin-left: 2.5cm;
+}
+
+p.Num2,
+p.Num3,
+p.Num4
+{
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: 0.5cm;
+}
+
+span.Code,
+pre.Code,
+pre.CodeSmall
+{
+	font-family: 'Courier New';
+}
+
+table.Normal,
+table.Event
+{
+	border-collapse: collapse;
+	margin-bottom: 6pt;
+	margin-left: 12pt;
+	width: auto;
+	caption-side: bottom;
+}
+
+p.TableCaption,
+p.TableCaptionUN,
+p.ImageCaption
+{
+	font-weight: bolder;
+	margin-left: 12pt;
+}
+
+p.TableCaption,
+p.TableCaptionUN
+{
+	margin-bottom: 2pt;
+	margin-top: 9pt;
+}
+
+p.TableCaption
+{
+	mc-auto-number-format: 'GT:Table {n+}: ';
+}
+
+p.ImageCaption
+{
+	margin-top: 0em;
+	padding-top: -0.5em;
+	margin-bottom: 9pt;
+}
+
+th.Left,
+th.DyalogLeft,
+th.leftPlain
+{
+	text-align: left;
+}
+
+th.LeftPlain,
+td.DyalogPlain,
+td.NormalPlain
+{
+	padding: 1px;
+}
+
+td.IconTable
+{
+	padding: 4px;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	vertical-align: top;
+}
+
+td.SpacedPlain,
+td.SpacedPlainTitle
+{
+	padding: 3px;
+	padding-left: 0px;
+	padding-right: 6px;
+	text-align: left;
+}
+
+td.SpacedPlainTitle
+{
+	font-weight: bold;
+	vertical-align: top;
+}
+
+th.Left,
+th.DyalogLeft,
+th.Centre,
+td.Normal,
+td.NormalCentred,
+td.RowTitle,
+td.MenuItem,
+td.Dyalog,
+td.Code,
+td.DefaultOption,
+td.DyalogDefault,
+td.SubHeading
+{
+	padding: 3px;
+	border: solid 1px #000000;
+}
+
+th.DyalogLeft
+{
+	font-family: 'APL385 Unicode';
+}
+
+td.RowTitle
+{
+	font-weight: bold;
+}
+
+td.NormalCentred
+{
+	text-align: center;
+}
+
+td.DefaultOption,
+td.DyalogDefault,
+td.SubHeading,
+span.DefaultOption
+{
+	background-color: #dcdcdc;
+}
+
+td.SubHeading
+{
+	font-weight: bold;
+}
+
+col.Index,
+col.Narrow
+{
+	width: 4em;
+}
+
+col.Option
+{
+	font-family: 'APL385 Unicode';
+	width: 8em;
+}
+
+col.GUIMember,
+col.IconTable,
+col.RowTitle,
+col.EnvVar,
+col.SymbolIndex
+{
+	width: 12em;
+}
+
+col.MenuItem
+{
+	width: 13em;
+}
+
+col.SpacedPlainTitle
+{
+	width: 8em;
+}
+
+col.Code,
+col.Parameter
+{
+	width: 15em;
+}
+
+col.Idiom
+{
+	width: 18em;
+}
+
+col.Label,
+col.WindowName
+{
+	width: 10em;
+}
+
+col.KeyCode
+{
+	width: 5em;
+}
+
+col.KeyStroke
+{
+	width: 10em;
+}
+
+col.TwoColumns
+{
+	width: 50%;
+}
+
+div.h3,
+div.h3NewPage
+{
+	margin-bottom: 9pt;
+}
+
+div.h5,
+div.h5NewPage
+{
+	margin-bottom: 3pt;
+}
+
+div.h5
+{
+	margin-top: 12pt;
+}
+
+table.h3,
+table.h5
+{
+	font-weight: bold;
+	background-color: #d9d9d9;
+	border-collapse: collapse;
+	border: solid 1px #000000;
+	width: 100%;
+}
+
+table.h3
+{
+	font-size: 140%;
+}
+
+table.h5
+{
+	font-size: 120%;
+}
+
+td.h3Left,
+td.h3Right
+{
+	padding: 4px;
+}
+
+td.h5Left,
+td.h5Right
+{
+	padding: 2px;
+}
+
+td.h3Right
+{
+	font-family: 'APL385 Unicode';
+}
+
+td.h3Right,
+td.h3RightGUI,
+td.h5Right
+{
+	text-align: right;
+	padding-right: 6px;
+}
+
+td.Right
+{
+	text-align: right;
+}
+
+table.GUIMembers
+{
+	margin-bottom: 6pt;
+	border-collapse: collapse;
+	width: auto;
+	padding-left: 0px;
+}
+
+caption
+{
+	mc-auto-number-format: 'Table {n+}: ';
+}
+
+MadCap|xref.TableRef
+{
+	mc-format: '{paranumonly}';
+}
+
+MadCap|xref
+{
+	mc-format: '{paratext}';
+}
+
+MadCap|xref.SeePageNumber
+{
+	mc-format: '';
+}
+
+MadCap|xref.above
+{
+	mc-format: '{paratext}';
+}
+
+MadCap|xref.below
+{
+	mc-format: '{paratext}';
+}
+
+MadCap|xref.SeeExample
+{
+	mc-format: ' See {title}.';
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+@media print, OnScreenPDF
+{
+	body
+	{
+		font-family: 'Times New Roman';
+	}
+
+	.NewPage,
+	h4.ExampleNewPage,
+	h4.NoteNewPage
+	{
+		page-break-before: always;
+		margin-top: 0;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4
+	{
+		font-family: 'Arial Narrow';
+	}
+
+	h1
+	{
+		font-size: 24pt;
+		margin: 0;
+		margin-bottom: 60pt;
+		mc-heading-level: 1;
+		mc-auto-number-format: 'Chapter {chapnum}: ';
+	}
+
+	h1.Contents,
+	h1.Index
+	{
+		mc-auto-number-format: '';
+	}
+
+	h1.Contents
+	{
+		mc-heading-level: 0;
+	}
+
+	h2
+	{
+		margin-top: 12pt;
+		font-size: 20pt;
+		mc-heading-level: 2;
+	}
+
+	h3
+	{
+		font-size: 18pt;
+		mc-heading-level: 0;
+		margin-left: 2.5cm;
+		margin-top: 6pt;
+	}
+
+	h4
+	{
+		font-size: 14pt;
+		mc-heading-level: 0;
+		margin-left: 2.5cm;
+	}
+
+	h4.Example,
+	h4.ExampleNewPage,
+	h4.Note,
+	h4.NoteNewPage
+	{
+		font-size: 11pt;
+	}
+
+	p
+	{
+		word-spacing: -1px;
+		line-height: 11.5pt;
+		margin-left: 2.5cm;
+		margin-bottom: 5.5pt;
+	}
+
+	p.Num0
+	{
+		font-family: 'Arial Narrow';
+		font-size: 14pt;
+	}
+
+	p.Num1
+	{
+		font-family: 'Arial Narrow';
+		font-size: 14pt;
+	}
+
+	p.Num2
+	{
+		margin-left: 3.5cm;
+	}
+
+	p.Num3,
+	p.Num4
+	{
+		margin-left: 4.5cm;
+	}
+
+	p.NoIndent
+	{
+		margin-left: 0;
+	}
+
+	p.pagebreakafter
+	{
+		page-break-after: always;
+		display: block;
+	}
+
+	p.smallprint
+	{
+		font-size: 8pt;
+		font-style: italic;
+		margin-left: 0;
+		margin-bottom: 6pt;
+		margin-right: 5.25cm;
+	}
+
+	ol,
+	ul
+	{
+		margin-bottom: 6pt;
+		margin-left: 3.5cm;
+	}
+
+	pre.APLCode,
+	pre.APLCodeNoIndent,
+	pre.Code
+	{
+		line-height: 10pt;
+	}
+
+	pre.APLCodeSmall,
+	pre.Code
+	{
+		font-size: 9pt;
+		line-height: 9pt;
+	}
+
+	pre.CodeSmall
+	{
+		margin-left: 0.5cm;
+		font-size: 8pt;
+		line-height: 8pt;
+	}
+
+	pre.APLCode,
+	pre.APLCodeSmall,
+	pre.Code,
+	p.ImageCaption
+	{
+		margin-left: 2.5cm;
+	}
+
+	img
+	{
+		max-width: 12.2cm;
+	}
+
+	img.raw
+	{
+		max-width: 14.2cm;
+	}
+
+	tr.pagebreakbefore
+	{
+		page-break-before: always;
+	}
+
+	p.TOC1
+	{
+		font-family: 'Arial Narrow';
+		font-size: 11pt;
+		margin: 0;
+		margin-top: 18pt;
+		margin-bottom: 2pt;
+	}
+
+	p.TOC2,
+	p.TOC3,
+	p.TOC5
+	{
+		margin: 0;
+	}
+
+	p.TOC3
+	{
+		margin-left: 18pt;
+	}
+
+	p.TOC5
+	{
+		margin-left: 20pt;
+	}
+
+	table.Normal,
+	table.Event
+	{
+		width: 11.89cm;
+	}
+
+	table.Normal,
+	table.Event,
+	p.TableCaption,
+	p.TableCaptionUN
+	{
+		margin-left: 3cm;
+	}
+
+	table.GUIMembers
+	{
+		margin-left: 2.5cm;
+		width: 12.39cm;
+	}
+
+	div.h3
+	{
+		margin-top: 12pt;
+	}
+
+	div.h3NewPage,
+	div.h5NewPage
+	{
+		page-break-before: always;
+	}
+
+	table.h3
+	{
+		font-size: 16pt;
+	}
+
+	table.h5
+	{
+		font-size: 14pt;
+	}
+
+	td.h3Left,
+	td.h3RightGUI,
+	td.h5Left,
+	td.h5Right
+	{
+		font-family: 'Arial Narrow';
+	}
+
+	td.h3Left
+	{
+		mc-heading-level: 3;
+	}
+
+	td.PageHeader
+	{
+		font-family: 'Arial Narrow';
+		font-size: 10pt;
+		font-weight: bold;
+	}
+
+	MadCap|xref.SeePageNumber
+	{
+		mc-format: ' (see page {page})';
+	}
+
+	MadCap|xref.above
+	{
+		mc-format: '{i}{paratext}{/i} above';
+	}
+
+	MadCap|xref.below
+	{
+		mc-format: '{i}{paratext}{/i} below';
+	}
+
+	MadCap|xref
+	{
+		mc-format: '{i}{paratext}{/i} on page {page}';
+	}
+
+	MadCap|xref.SeeExample
+	{
+		mc-format: '';
+	}
+
+	MadCap|indexProxy
+	{
+		padding-left: 0px;
+		border-top-style: none;
+		border-top-width: 0px;
+	}
+
+	MadCap|tocProxy
+	{
+		border-top-style: none;
+		border-top-width: 0px;
+	}
+
+	p.IndexHeading
+	{
+		text-align: left;
+	}
+
+	p.Index1,
+	p.Index2,
+	p.Index3
+	{
+		margin: 0;
+	}
+
+	p.Index1
+	{
+		mc-multiline-indent: 0em;
+	}
+
+	p.Index2
+	{
+		margin-left: 2em;
+	}
+}
+
+@media print
+{
+	a:link,
+	a:visited
+	{
+		color: #000000;
+		text-decoration: none;
+	}
+}
+
+@media non-print
+{
+	p,
+	pre,
+	table.GUIMembers,
+	h4
+	{
+		margin-left: 6pt;
+	}
+
+	h2,
+	h3
+	{
+		background-color: #d9d9d9;
+		border: solid 1px #000000;
+		padding: 4px;
+	}
+
+	p.pagebreakafter
+	{
+		font-size: 1pt;
+	}
+
+	a.Popup
+	{
+		mc-popup-height: 500px;
+		mc-popup-width: 500px;
+	}
+}
+
+@media non-print, OnScreenPDF
+{
+	pre.APLCode,
+	pre.APLCodeSmall,
+	pre.APLCodeNoIndent,
+	td.Dyalog,
+	td.DyalogDefault,
+	td.DyalogPlain
+	{
+		color: #0000f0;
+	}
+
+	span.Dyalog
+	{
+		color: #000080;
+	}
+}
+

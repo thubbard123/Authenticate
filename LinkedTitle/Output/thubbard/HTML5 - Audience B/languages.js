@@ -1,0 +1,1 @@
+define({data:[{code:'en-us', full:'English (United States)‎', target:'en-us/Default.htm'},{code:'es', full:'Español‎', target:'es/Default.htm'}]});

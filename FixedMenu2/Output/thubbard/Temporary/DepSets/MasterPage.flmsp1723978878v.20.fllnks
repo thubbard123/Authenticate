@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Simple.css" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV10/UserGuideA7X9.pdf" />
+    <Link
+      Url="Content/Resources/Images/DownloadIcon.png" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareTemplates/UserGuideAGreen.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV10/UserGuideB7X9.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareTemplates/UserGuideBGreen.pdf" />
+    <Link
+      Url="https://twitter.com/" />
+    <Link
+      Url="Content/Resources/Images/Twitter.png" />
+    <Link
+      Url="http://www.facebook.com/madcapdocteam" />
+    <Link
+      Url="Content/Resources/Images/Facebook.png" />
+    <Link
+      Url="Content/Resources/Images/ContactIcon.png" />
+    <Link
+      Url="http://www.madcapsoftware.com/" />
+    <Link
+      Url="Content/Resources/Images/InfoIcon.png" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Simple.css" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV10/UserGuideA7X9.pdf" />
+    <Link
+      Url="Content/Resources/Images/DownloadIcon.png" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareTemplates/UserGuideAGreen.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV10/UserGuideB7X9.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareTemplates/UserGuideBGreen.pdf" />
+    <Link
+      Url="https://twitter.com/#!/MadCapDocTeam" />
+    <Link
+      Url="Content/Resources/Images/Twitter.png" />
+    <Link
+      Url="http://www.facebook.com/madcapdocteam" />
+    <Link
+      Url="Content/Resources/Images/Facebook.png" />
+    <Link
+      Url="Content/Resources/Images/ContactIcon.png" />
+    <Link
+      Url="http://www.madcapsoftware.com/" />
+    <Link
+      Url="Content/Resources/Images/InfoIcon.png" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.CompanyName" />
+    <Variable
+      Name="General.Year" />
+    <Variable
+      Name="General.ProductName" />
+    <Variable
+      Name="General.Fax" />
+    <Variable
+      Name="General.Phone" />
+    <Variable
+      Name="General.Tollfree" />
+    <Variable
+      Name="General.CityStateZip" />
+    <Variable
+      Name="General.StreetAddress" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Simple.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

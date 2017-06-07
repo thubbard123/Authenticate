@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareGettingStartedGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareHTML5Guide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareKeyFeaturesGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareShortcutsGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareTouringTheWorkspaceGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareWhatsNewGuide.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareGettingStartedGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareHTML5Guide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareKeyFeaturesGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareShortcutsGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareTouringTheWorkspaceGuide.pdf" />
+    <Link
+      Url="http://docs.madcapsoftware.com/FlareV11/FlareWhatsNewGuide.pdf" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/MainStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

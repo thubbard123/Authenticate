@@ -1,0 +1,1 @@
+define({"0":{i:0.5,u:"../Content/blue.htm",a:"blue Delete this text and replace it with your own content.",t:"blue"},"1":{i:0.5,u:"../Content/Topic.htm",a:"Topic Title Delete this text and replace it with your own content.",t:"Topic Title"},});

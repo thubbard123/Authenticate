@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../Resources/Stylesheets/ReleaseNotesStyles.css" />
+    <Link
+      Url="../Resources/Images/R21/ObsoleteNutrients.png" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Resources/Images/DeleteButton.png" />
+    <Link
+      Url="../Resources/Images/R21/ObsoleteNutrients2.png" />
+    <Link
+      Url="../Resources/Images/R21/LabAnalysis.png" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Introduction/How to Get Help.htm" />
+    <Link
+      Url="../Resources/Images/R21/BackupDatabase.png" />
+    <Link
+      Url="../Resources/Images/R21/DeleteSupplierMessage.png" />
+    <Link
+      Url="../Resources/Images/R21/DefaultFreight.png" />
+    <Link
+      Url="../Resources/Images/R21/GetCustomerBlend.png" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Resources/Snippets/HorizontalView.flsnp" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Resources/Snippets/VerticalView.flsnp" />
+    <Link
+      Url="../Resources/Images/R21/DietsAnalyzeViewOptions.png" />
+    <Link
+      Url="../Resources/Images/R21/NutrientAmountConcChart.png" />
+    <Link
+      Url="Content/Link.htm" />
+    <Link
+      Url="../Resources/Images/R21/ShrinkPercent.png" />
+    <Link
+      Url="../Resources/Images/R21/MultipleProducts.png" />
+    <Link
+      Url="../Resources/Images/CopyButton.png" />
+    <Link
+      Url="../Resources/Images/DeleteButton.png" />
+    <Link
+      Url="../Resources/Images/R21/UpdatePriceButton.png" />
+    <Link
+      Url="../Resources/Images/R21/OrderProductWarning.png" />
+    <Link
+      Url="../Resources/Images/R21/NetDeliveredPriceDoesNotMatch.png" />
+    <Link
+      Url="../Resources/Images/R21/NetDeliveredPriceDoesNotMatch2.png" />
+    <Link
+      Url="../Resources/Images/R21/ExpandBlends.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../Resources/Stylesheets/ReleaseNotesStyles.css" />
+    <Link
+      Url="../Resources/Images/R21/ObsoleteNutrients.png" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Resources/Images/DeleteButton.png" />
+    <Link
+      Url="../Resources/Images/R21/ObsoleteNutrients2.png" />
+    <Link
+      Url="../Resources/Images/R21/LabAnalysis.png" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Introduction/How to Get Help.htm" />
+    <Link
+      Url="../Resources/Images/R21/BackupDatabase.png" />
+    <Link
+      Url="../Resources/Images/R21/DeleteSupplierMessage.png" />
+    <Link
+      Url="../Resources/Images/R21/DefaultFreight.png" />
+    <Link
+      Url="../Resources/Images/R21/GetCustomerBlend.png" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Resources/Snippets/HorizontalView.flsnp" />
+    <Link
+      Url="../../../../MAXUserGuide/Content/Resources/Snippets/VerticalView.flsnp" />
+    <Link
+      Url="../Resources/Images/R21/DietsAnalyzeViewOptions.png" />
+    <Link
+      Url="../Resources/Images/R21/NutrientAmountConcChart.png" />
+    <Link
+      Url="Content/Link.htm#Min" />
+    <Link
+      Url="../Resources/Images/R21/ShrinkPercent.png" />
+    <Link
+      Url="../Resources/Images/R21/MultipleProducts.png" />
+    <Link
+      Url="../Resources/Images/CopyButton.png" />
+    <Link
+      Url="../Resources/Images/DeleteButton.png" />
+    <Link
+      Url="../Resources/Images/R21/UpdatePriceButton.png" />
+    <Link
+      Url="../Resources/Images/R21/OrderProductWarning.png" />
+    <Link
+      Url="../Resources/Images/R21/NetDeliveredPriceDoesNotMatch.png" />
+    <Link
+      Url="../Resources/Images/R21/NetDeliveredPriceDoesNotMatch2.png" />
+    <Link
+      Url="../Resources/Images/R21/ExpandBlends.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Min" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="../Resources/Stylesheets/ReleaseNotesStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

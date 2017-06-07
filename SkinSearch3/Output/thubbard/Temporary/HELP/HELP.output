@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/thubbard/HELP/HELP.chm"
+  BuildVersion="13.2.6334.20174"
+  AliasFile="/Output/thubbard/Temporary/HELP/Content/Data/Alias.xml">
+  <Files>
+    <Url
+      Source="Output/thubbard/HELP/HELP.chm" />
+  </Files>
+  <Skins>
+    <Url
+      Source="Output/thubbard/Temporary/HELP/Content/Data/SkinDefault/Skin.xml" />
+    <Url
+      Source="Default" />
+    <Url
+      Source="HTML5 - Top Navigation" />
+    <Url
+      Source="HTML5 - Tripane" />
+  </Skins>
+</CatapultTargetOutput>

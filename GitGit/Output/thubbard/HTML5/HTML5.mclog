@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2017 Generated HTML5.fltar" Date="2017-05-04T14:27:32.4225597-07:00">
+    <Messages>Compiling target HTML5...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Collecting source files...
+Processing source files...
+Processing CSS: Resources\Stylesheets\Modern.css...
+Processing CSS: Resources\Stylesheets\Styles.css...
+Generating output files...
+Processing topic: Topic.htm...
+Generated Topic.htm
+Generating output skins...
+Generating synonyms file...
+Generating alias file...
+Processing audio links...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Generating Template Topics...
+Generating Search.htm...
+Topic marked 'not searchable': Search.htm...
+Generated Search.htm
+Resolving links in output files...
+Generating Search Database...
+Writing search entry cache...
+Generating final output...
+Generated Default.htm
+Saving result set...
+Output generated in 3 second(s).
+
+Done
+Publishing target HTML5...
+Connecting...
+Downloading log ...
+Uploading changed files...
+Uploading csh.js... succeeded.
+Uploading Default.htm... succeeded.
+Uploading Default.js... succeeded.
+Uploading Default.mcwebhelp... succeeded.
+Uploading Default_CSH.htm... succeeded.
+Uploading Content/Search.htm... succeeded.
+Uploading Content/Topic.htm... succeeded.
+Uploading Content/Resources/Stylesheets/Modern.css... succeeded.
+Uploading Content/Resources/Stylesheets/Styles.css... succeeded.
+Uploading Data/Alias.js... succeeded.
+Uploading Data/Alias.xml... succeeded.
+Uploading Data/Breakpoints.js... succeeded.
+Uploading Data/Concepts.js... succeeded.
+Uploading Data/Filters.js... succeeded.
+Uploading Data/Glossary.js... succeeded.
+Uploading Data/Glossary_Chunk0.js... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/Index.js... succeeded.
+Uploading Data/Index_Chunk0.js... succeeded.
+Uploading Data/Language.js... succeeded.
+Uploading Data/Search.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchTopic_Chunk0.js... succeeded.
+Uploading Data/SearchUrl_Chunk0.js... succeeded.
+Uploading Data/Synonyms.js... succeeded.
+Uploading Data/Synonyms.xml... succeeded.
+Uploading Data/Toc.js... succeeded.
+Uploading Data/Toc_Chunk0.js... succeeded.
+Uploading Resources/Scripts/custom.modernizr.js... succeeded.
+Uploading Resources/Scripts/foundation.5.5.0_custom.js... succeeded.
+Uploading Resources/Scripts/foundation.offcanvas.js... succeeded.
+Uploading Resources/Scripts/jquery.min.js... succeeded.
+Uploading Resources/Scripts/MadCapAll.js... succeeded.
+Uploading Resources/Scripts/plugins.min.js... succeeded.
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Resources/Scripts/require.min.js... succeeded.
+Uploading Resources/Scripts/stemmer-english.amd.min.js... succeeded.
+Uploading Skins/Default/Stylesheets/Slideshow.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Mobile.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Styles.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Tablet.css... succeeded.
+Uploading Skins/Default/Stylesheets/Images/close.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/collapse.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/edit-profile.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/expand.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/help-control.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/highlight.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/loading.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login-dialog-icon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_controls.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_loader.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-next.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-previous.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/printer.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/SearchIcon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-language.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-skin.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-empty.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-full.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/transparent.gif... succeeded.
+Uploading Skins/Fluid/Stylesheets/foundation.5.5.0.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Mobile.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Styles.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Tablet.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/SearchIcon.png... succeeded.
+Removing old files...
+Uploading log ...
+Checking in: csh.js
+Checking in: Default.htm
+Checking in: Default.js
+Checking in: Default.mcwebhelp
+Checking in: Default_CSH.htm
+Checking in: Content/Search.htm
+Checking in: Content/Topic.htm
+Checking in: Content/Resources/Stylesheets/Modern.css
+Checking in: Content/Resources/Stylesheets/Styles.css
+Checking in: Data/Alias.js
+Checking in: Data/Alias.xml
+Checking in: Data/Breakpoints.js
+Checking in: Data/Concepts.js
+Checking in: Data/Filters.js
+Checking in: Data/Glossary.js
+Checking in: Data/Glossary_Chunk0.js
+Checking in: Data/HelpSystem.js
+Checking in: Data/HelpSystem.xml
+Checking in: Data/Index.js
+Checking in: Data/Index_Chunk0.js
+Checking in: Data/Language.js
+Checking in: Data/Search.js
+Checking in: Data/SearchPhrase_Chunk0.js
+Checking in: Data/SearchStem_Chunk0.js
+Checking in: Data/SearchTopic_Chunk0.js
+Checking in: Data/SearchUrl_Chunk0.js
+Checking in: Data/Synonyms.js
+Checking in: Data/Synonyms.xml
+Checking in: Data/Toc.js
+Checking in: Data/Toc_Chunk0.js
+Checking in: Resources/Scripts/custom.modernizr.js
+Checking in: Resources/Scripts/foundation.5.5.0_custom.js
+Checking in: Resources/Scripts/foundation.offcanvas.js
+Checking in: Resources/Scripts/jquery.min.js
+Checking in: Resources/Scripts/MadCapAll.js
+Checking in: Resources/Scripts/plugins.min.js
+Checking in: Resources/Scripts/require.config.js
+Checking in: Resources/Scripts/require.min.js
+Checking in: Resources/Scripts/stemmer-english.amd.min.js
+Checking in: Skins/Default/Stylesheets/Slideshow.css
+Checking in: Skins/Default/Stylesheets/TextEffects.css
+Checking in: Skins/Default/Stylesheets/Topic.css
+Checking in: Skins/Default/Stylesheets/Components/Mobile.css
+Checking in: Skins/Default/Stylesheets/Components/Styles.css
+Checking in: Skins/Default/Stylesheets/Components/Tablet.css
+Checking in: Skins/Default/Stylesheets/Images/close.png
+Checking in: Skins/Default/Stylesheets/Images/collapse.png
+Checking in: Skins/Default/Stylesheets/Images/edit-profile.png
+Checking in: Skins/Default/Stylesheets/Images/expand.png
+Checking in: Skins/Default/Stylesheets/Images/Filter.png
+Checking in: Skins/Default/Stylesheets/Images/FilterOutline.png
+Checking in: Skins/Default/Stylesheets/Images/help-control.png
+Checking in: Skins/Default/Stylesheets/Images/highlight.png
+Checking in: Skins/Default/Stylesheets/Images/loading.gif
+Checking in: Skins/Default/Stylesheets/Images/login-dialog-icon.png
+Checking in: Skins/Default/Stylesheets/Images/login.png
+Checking in: Skins/Default/Stylesheets/Images/MCSlider_controls.png
+Checking in: Skins/Default/Stylesheets/Images/MCSlider_loader.gif
+Checking in: Skins/Default/Stylesheets/Images/navigate-next.png
+Checking in: Skins/Default/Stylesheets/Images/navigate-previous.png
+Checking in: Skins/Default/Stylesheets/Images/printer.png
+Checking in: Skins/Default/Stylesheets/Images/SearchIcon.png
+Checking in: Skins/Default/Stylesheets/Images/select-language.png
+Checking in: Skins/Default/Stylesheets/Images/select-skin.png
+Checking in: Skins/Default/Stylesheets/Images/star-empty.png
+Checking in: Skins/Default/Stylesheets/Images/star-full.png
+Checking in: Skins/Default/Stylesheets/Images/transparent.gif
+Checking in: Skins/Fluid/Stylesheets/foundation.5.5.0.css
+Checking in: Skins/Fluid/Stylesheets/Mobile.css
+Checking in: Skins/Fluid/Stylesheets/Styles.css
+Checking in: Skins/Fluid/Stylesheets/Tablet.css
+Checking in: Skins/Fluid/Stylesheets/Images/Filter.png
+Checking in: Skins/Fluid/Stylesheets/Images/FilterOutline.png
+Checking in: Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png
+Checking in: Skins/Fluid/Stylesheets/Images/Menu.png
+Checking in: Skins/Fluid/Stylesheets/Images/SearchIcon.png
+Checking in: HTML5.4.log.zip
+Pushed 12 bytes.
+Pushed 346544 bytes.
+Publish complete.
+Saving log to "D:\LocalProjects\GitGit\Output\thubbard\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>

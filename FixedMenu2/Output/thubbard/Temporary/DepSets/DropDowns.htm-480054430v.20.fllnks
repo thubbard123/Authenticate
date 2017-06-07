@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links />
+  <LongLinks />
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Drop-downs"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Drop-downs:nested"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Nested drop-downs"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Introduction"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+  </Concepts>
+  <ConceptControlNames>
+    <ConceptControlName
+      Term="Introduction" />
+  </ConceptControlNames>
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

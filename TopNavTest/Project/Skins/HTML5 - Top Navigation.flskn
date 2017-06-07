@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Fluid Layout"
+  EnableResponsiveOutput="true"
+  RemoveImagesOnSave="true">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="Samus.jpg">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</Resource>
+    </Resources>
+    <Styles>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="Height">122px</Property>
+          <Property
+            Name="BackgroundColor">#292928</Property>
+          <Property
+            Name="MaxWidth">85.5em</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item">
+        <Classes>
+          <StyleClass
+            Name="2nd Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+              <Property
+                Name="MarginRight">0px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="3rd Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="4th Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+        <Properties></Properties>
+      </Style>
+      <Style
+        Name="Search Input">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#ffffff</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Main Page">
+        <Properties>
+          <Property
+            Name="MaxWidth">75.5em</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="Navigation Slide Out Button">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel Item">
+          <Properties>
+            <Property
+              Name="LineHeight">1</Property>
+          </Properties>
+          <Classes>
+            <StyleClass
+              Name="Expander Icon">
+              <Properties>
+                <Property
+                  Name="ExpanderBorderColor">#ff0000</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+        <Style
+          Name="Search Filter">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Search Filter Drop-down">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Search Filter Drop-down (hover)">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Logo">
+          <Properties>
+            <Property
+              Name="BackgroundImage">url('Samus.jpg')</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Header">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#ff8c00</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <WebHelpOptions
+    NavigationPanePosition="Right"
+    OffCanvasMenuStyle="Accordion" />
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Resources>
+          <Resource
+            Name="Samus.jpg">H4sIAAAAAAAEAKXRezjTCxgH8N9srmFGrslOhDSau0h5EIuY6LgmDkq5NctkOeK0zP3yINK0HLnMiCUh1XGbEY5UyKWsbXJJqq3QYuxwznk6/5w/znN637/e5/0+7/N8nlc4LmQBcs6OTo4ACAQCftpsQPgSsN+avqu2jnzvDZCwA4BJAEqAEhikCYjAQGAYSNgNwAEAJPpXAPi7QCJgiKiYuISk1LbNQJMcIAICg0UgYFFRCGRze2lzD0BgovK7jGzFFNyDxDWx240v55VJaNk1dCp6POPuNgk+T5CUUlJWUVXT1tHdo7fX1MzcYr+llf1hB0fUESfn4z96enn7+PqFnDodeuZsWHgMLvZCHP5i/JVkYkpqWnpGfsHVwqJrxddJt8orKqso1dSau433mppb7rc+6KJ3M3p6H/f1Px8eGX0xNj4xyeZMv5mZnZt/u8D79HlpeeUL/+vqlgsEgL/R/9UF23SJQCBgiPiWCyQStxWAQUR3GYnJ27qLB2EVNI0vS2y3yytr6JTUMvHgKgaffyaltNuUrc3bov0p+28wwv+SfYP945oEpMGgzeeBYYANsLGu6B0uqP2C4uY6C3LWm5NYtNeiNiE2O/kUdl0v/bVighevlP5R2nUambYamJJgzyqVoVwWGJOSiJg6s5MBGKV3ajEupIf8ua4ikkFbqcwok2LGrOHazpyNy5nqff9eCEBG12+0R2YeGFITePBLeTQWLaPunhv0LI2ny/ZmkO27PMbxEXS1nPJ6GU0baT4BCUuwLlhzjnhHa1mQx9th5NB5J7Try2EtDjaPlXtK+bqo7LYD/CEODi6bKJ+A5tPZbhBKqulBRA9c5oO11YZIKhtFH+h7ZEHhZ3pyq+riqvH1dEabOfdD7qEmZHIFz7w8BlMzGVHfwJQQzUoa2jDCk8nRoRYpn1wqg6ihlkwT1fTAY3WEJ43UGd+ovdh6ITCa5ap+yNgnbEhZ3TWSLm61FJ03MEek+pEjE5VLVsXn2Z3qUMYrN/K0tTcj6O5Nmcd38PHFFzmIWWzHLF/gqKdN6A25o5JV1OY7mFzuV2hTE6pyw9UajYRm+7hcUAZldgXbtAiBiZKVYT50zRuv0MXcx4/jqOKyQ7o1pJ4KYqoTDvKyb7Tt4A0Rl6YiEhBijZWBFU4Iv4CyZtJHl/vtd3Al6Ec5rImFB5FjDomHkzoNEpBc7853std5R6dtGJgsIaCxuKHGnPcqWAiA/TbcpjYPl7K24MBl306eu85yxXRtqA1r8UwvGLZcwYU15cJe2d921SmIw0TdCksZ8JH1HsG79aqOaUQf8mSoEgNku0d/n8ukOtOkZ4sF6MDlI5wz6tpWPAZbQ0uS9KysD2Xe4XWuCgqXGgm3Ix4ZgqKmrZ3YaDg7x3DQODIdazJg2EigD1h0HPdJ10PG4xD7WdqZHYNMvP4p7n7L4D3OCriotb51Kg+14rr+a1IEPC1+sV1RCISRUeyxriEJfMay9Q4WkkCSLYmiXkqJsjWATLZnWB+vmvK3ve3PD+j3OeHTcO+a79PlQYz7Ay6TRvGd9LNFvoyn0euQbOTi+zqBIV+cLQRk8DrD9JvgURwcHOaCxE2JH735syVHuaXFz6qv1uxN4ys3asBC30q2xxfPopOOHyIyW2cL+xE9LEH5PjoXpYQl6+vDleb4aGQOtjv2tEdbbE55Qegj+5R+w6YYqc/U9JxtCPowUf0hGF1hiN/jgJKxI1kMmUQmmmTcj0up9Updbc+ftVTUb9QtS6UHnV80ZjwfOJNZu+xvoGZay8HGkJ2LbwdommF9SIV7R2h+FQsjV9uShAABv/Gkub2R1kFnDwYukoRA98tcWIR5qdwhbXKg+1hsYJrH/Gr2GysdSiy25i3p9JMrIRiKf3ID92T+1DxTg3RitnHEDFGyNmU3fytjHfqL4XikLjiaKK2zA5pM7035FGYPTS47KpOaXDOzhPDEzR8jWh1bKQxHV3z9oZVi6bT2PEoQpzJtdDFVEatksTO9LpPBMcnqqkxw1KxYeFFrkV5N0xtsNc13T8YMSDgaErK0VGjCiT8Ah1QlG9cGAAA=</Resource>
+        </Resources>
+        <Styles>
+          <Style
+            Name="Header">
+            <Properties>
+              <Property
+                Name="Height">122px</Property>
+              <Property
+                Name="BackgroundColor">#292928</Property>
+              <Property
+                Name="MaxWidth">85.5em</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Menu Item">
+            <Classes>
+              <StyleClass
+                Name="2nd Level">
+                <Properties>
+                  <Property
+                    Name="PaddingRight">10px</Property>
+                  <Property
+                    Name="MarginRight">0px</Property>
+                </Properties>
+              </StyleClass>
+              <StyleClass
+                Name="3rd Level">
+                <Properties>
+                  <Property
+                    Name="PaddingRight">10px</Property>
+                </Properties>
+              </StyleClass>
+              <StyleClass
+                Name="4th Level">
+                <Properties>
+                  <Property
+                    Name="PaddingRight">10px</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+            <Properties></Properties>
+          </Style>
+          <Style
+            Name="Search Input">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#ffffff</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Menu">
+            <Properties>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Main Page">
+            <Properties>
+              <Property
+                Name="MaxWidth">75.5em</Property>
+            </Properties>
+          </Style>
+          <Medium
+            Name="Tablet">
+            <Style
+              Name="Navigation Slide Out Button">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Navigation Panel">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Navigation Panel Item">
+              <Properties>
+                <Property
+                  Name="LineHeight">1</Property>
+              </Properties>
+              <Classes>
+                <StyleClass
+                  Name="Expander Icon">
+                  <Properties>
+                    <Property
+                      Name="ExpanderBorderColor">#ff0000</Property>
+                  </Properties>
+                </StyleClass>
+              </Classes>
+            </Style>
+            <Style
+              Name="Search Filter">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Search Filter Drop-down">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Search Filter Drop-down (hover)">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Logo">
+              <Properties>
+                <Property
+                  Name="BackgroundImage">url('Samus.jpg')</Property>
+              </Properties>
+            </Style>
+            <Style
+              Name="Header">
+              <Properties>
+                <Property
+                  Name="BackgroundColor">#ff8c00</Property>
+              </Properties>
+            </Style>
+          </Medium>
+        </Styles>
+        <Stylesheet></Stylesheet>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

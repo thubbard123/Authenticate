@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/thubbard/PDF/UserGuideA8_5X11/UserGuideA8_5X11.pdf"
+  BuildVersion="13.2.6334.20174">
+  <Files>
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/QuotationMark.png" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/Image.png" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/RedX.png" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/TitlePageBackground.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/TableStyles/SimpleWithPadding.css" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/Bullet2.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/FooterCircleBlack.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/TableStyles/StandardOnDarkBackground.css" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/FooterLogoBlack.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/SaveButton.png" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/TableStyles/PatternedRows.css" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/FooterLogo.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/NoteIcon.png" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/GreenCheck.png" />
+    <Url
+      Source="Output/thubbard/PDF/UserGuideA8_5X11/UserGuideA8_5X11.pdf" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/TableStyles/Standard.css" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/FooterCircle.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Images/Bullet1.eps" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/Stylesheets/styles.css" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF/UserGuideA8_5X11/UserGuideA8_5X11_100BA10A/Resources/TableStyles/Simple.css" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

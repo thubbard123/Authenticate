@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="My Subset"
+    Order="0"
+    Concepts="Images"></SearchFilter>
+  <SearchFilter
+    Name="NewFilter"
+    Comment=""
+    Order="1"
+    Concepts="LinksLists;ConditionsBlockElementsTables" />
+</CatapultSearchFilterSet>

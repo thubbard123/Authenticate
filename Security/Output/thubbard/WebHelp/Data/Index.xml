@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetIndex Count="4">
+    <IndexEntry>
+        <Entries>
+            <IndexEntry Term="Features">
+                <Entries>
+                    <IndexEntry Term="new">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="What's New" Link="/Content/A_Introduction Topics/WhatsNew.htm#kanchor1" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links />
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Information">
+                <Entries />
+                <Links>
+                    <IndexLink Title="More Information" Link="/Content/A_Introduction Topics/MoreInformation.htm#kanchor2" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="New features">
+                <Entries />
+                <Links>
+                    <IndexLink Title="What's New" Link="/Content/A_Introduction Topics/WhatsNew.htm#kanchor1" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+        </Entries>
+        <Links />
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+    </IndexEntry>
+</CatapultTargetIndex>

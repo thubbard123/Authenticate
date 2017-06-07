@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MyVariables.flvar" />
+    <Link
+      Url="Content/Resources/TableStyles/KBTable2.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MyVariables.flvar" />
+    <Link
+      Url="Content/Resources/TableStyles/KBTable2.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Product A:Article 1"
+      Conditions="Default.Not Ready for Publish"
+      LocalConditions=""
+      Position="4" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Article"
+      Conditions="Default.Not Ready for Publish"
+      LocalConditions=""
+      Position="6" />
+  </Concepts>
+  <ConceptControlNames>
+    <ConceptControlName
+      Term="Article" />
+  </ConceptControlNames>
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MyVariables.ProductA" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.Not Ready for Publish" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Not Ready for Publish" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

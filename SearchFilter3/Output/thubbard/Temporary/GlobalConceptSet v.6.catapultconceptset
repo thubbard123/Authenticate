@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///D:/LocalProjects/SearchFilter3/Output/thubbard/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts>
+    <ConceptEntry
+      Term="ConditionsBlockElementsTables">
+      <ConceptLink
+        Link="C_Conditions Notes Tables/Conditions.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="C_Conditions Notes Tables/ConditionsNotesTables.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="C_Conditions Notes Tables/Tables.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Images">
+      <ConceptLink
+        Link="D_Images/ImagePositionedLeft.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="D_Images/ImagePositionedRight.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="D_Images/ImageWithinList.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="D_Images/ThumbnailImage.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="LinksLists">
+      <ConceptLink
+        Link="B_Links and Lists/Links.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="B_Links and Lists/LinksAndLists.htm"
+        UsedConditions=""
+        LocalConditions="" />
+      <ConceptLink
+        Link="B_Links and Lists/Lists.htm"
+        UsedConditions=""
+        LocalConditions="" />
+    </ConceptEntry>
+  </Concepts>
+  <SourceUrls>
+    <Url
+      Source="Home.htm" />
+    <Url
+      Source="Read First.pdf" />
+    <Url
+      Source="A_Getting Started/Basic Steps.htm" />
+    <Url
+      Source="A_Getting Started/Getting Started.htm" />
+    <Url
+      Source="A_Getting Started/Whats New.htm" />
+    <Url
+      Source="B_Links and Lists/Links.htm" />
+    <Url
+      Source="B_Links and Lists/LinksAndLists.htm" />
+    <Url
+      Source="B_Links and Lists/Lists.htm" />
+    <Url
+      Source="C_Conditions Notes Tables/Conditions.htm" />
+    <Url
+      Source="C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+    <Url
+      Source="C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+    <Url
+      Source="C_Conditions Notes Tables/Tables.htm" />
+    <Url
+      Source="D_Images/ImagePositionedLeft.htm" />
+    <Url
+      Source="D_Images/ImagePositionedRight.htm" />
+    <Url
+      Source="D_Images/Images.htm" />
+    <Url
+      Source="D_Images/ImageWithinList.htm" />
+    <Url
+      Source="D_Images/Positioned Images.htm" />
+    <Url
+      Source="D_Images/ThumbnailImage.htm" />
+    <Url
+      Source="E_Footer Topics/Company Information.htm" />
+    <Url
+      Source="E_Footer Topics/FAQs.htm" />
+    <Url
+      Source="E_Footer Topics/PDF Downloads.htm" />
+    <Url
+      Source="E_Footer Topics/Tips.htm" />
+    <Url
+      Source="Resources/Images/BackgroundImage.png" />
+    <Url
+      Source="Resources/Images/BasicSteps.png" />
+    <Url
+      Source="Resources/Images/Bullet1.png" />
+    <Url
+      Source="Resources/Images/Bullet2.png" />
+    <Url
+      Source="Resources/Images/CompanyLogo.png" />
+    <Url
+      Source="Resources/Images/DropDownClosed.png" />
+    <Url
+      Source="Resources/Images/DropDownClosedSecondLevel.png" />
+    <Url
+      Source="Resources/Images/DropDownOpen.png" />
+    <Url
+      Source="Resources/Images/DropDownOpenSecondLevel.png" />
+    <Url
+      Source="Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="Resources/Images/FAQs.png" />
+    <Url
+      Source="Resources/Images/GreenCheck.png" />
+    <Url
+      Source="Resources/Images/Image.png" />
+    <Url
+      Source="Resources/Images/KeyFeatures.png" />
+    <Url
+      Source="Resources/Images/NoteIcon.png" />
+    <Url
+      Source="Resources/Images/PDF Cover.png" />
+    <Url
+      Source="Resources/Images/QuotationMark.png" />
+    <Url
+      Source="Resources/Images/RedX.png" />
+    <Url
+      Source="Resources/Images/SaveButton.png" />
+    <Url
+      Source="Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="Resources/Images/WhatsNew.png" />
+    <Url
+      Source="Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp" />
+    <Url
+      Source="Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="Resources/TableStyles/PatternedRows.css" />
+    <Url
+      Source="Resources/TableStyles/Simple.css" />
+    <Url
+      Source="Resources/TableStyles/Standard.css" />
+  </SourceUrls>
+  <UsedUrls>
+    <Url
+      Source="B_Links and Lists/Links.htm"
+      Terms="LinksLists" />
+    <Url
+      Source="B_Links and Lists/LinksAndLists.htm"
+      Terms="LinksLists" />
+    <Url
+      Source="B_Links and Lists/Lists.htm"
+      Terms="LinksLists" />
+    <Url
+      Source="C_Conditions Notes Tables/Conditions.htm"
+      Terms="ConditionsBlockElementsTables" />
+    <Url
+      Source="C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      Terms="ConditionsBlockElementsTables" />
+    <Url
+      Source="C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+      Terms="ConditionsBlockElementsTables" />
+    <Url
+      Source="C_Conditions Notes Tables/Tables.htm"
+      Terms="ConditionsBlockElementsTables" />
+    <Url
+      Source="D_Images/ImagePositionedLeft.htm"
+      Terms="Images" />
+    <Url
+      Source="D_Images/ImagePositionedRight.htm"
+      Terms="Images" />
+    <Url
+      Source="D_Images/ImageWithinList.htm"
+      Terms="Images" />
+    <Url
+      Source="D_Images/ThumbnailImage.htm"
+      Terms="Images" />
+  </UsedUrls>
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

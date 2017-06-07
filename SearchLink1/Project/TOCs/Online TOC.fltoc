@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="All About San Diego"
+    Link="/Content/AllAboutSanDiego.htm" />
+  <TocEntry
+    Title="San Diego Attractions"
+    Link="/Content/SanDiegoAttractions.htm"></TocEntry>
+  <TocEntry
+    Title="San Diego Cuisine"
+    Link="/Content/SanDiegoCuisine.htm">
+    <TocEntry
+      Title="Food"
+      Link="/Content/Food.htm" />
+    <TocEntry
+      Title="Beer"
+      Link="/Content/Beer.htm" />
+  </TocEntry>
+</CatapultToc>

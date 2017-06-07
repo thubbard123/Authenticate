@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="HomePage"
+  FileSearchable="true"
+  MasterPage="file:///D:/LocalProjects/Training_Henry1/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Project/Skins/HomeSearchBar.flskn" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Project/Skins/HomeSearchBar.flskn" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

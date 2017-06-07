@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/thubbard/PDF1/PDF1.pdf"
+  BuildVersion="13.2.6334.20174">
+  <Files>
+    <Url
+      Source="Output/thubbard/PDF1/PDF1.pdf" />
+    <Url
+      Source="Output/thubbard/Temporary/PDF1/PDF1_6395B2EF/Resources/Stylesheets/Styles.css" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

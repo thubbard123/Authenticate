@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="Content/D_Images/Images.htm" />
+    <Link
+      Url="http://www.madcapsoftware.com/" />
+    <Link
+      Url="Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="Content/D_Images/Images.htm" />
+    <Link
+      Url="http://www.madcapsoftware.com/" />
+    <Link
+      Url="Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+    <Link
+      Url="Project/ConditionTagSets/General.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Links"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Cross-references"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="Text hyperlinks"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Hyperlinks"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Popups"
+      Conditions="General.Audience A"
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Footnotes"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="LinksLists"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="General.Audience A" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/MainStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

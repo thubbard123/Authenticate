@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2017 r2 Generated HELP.fltar" Date="2017-05-12T09:21:30.8854196-07:00">
+    <Messages>Compiling target HELP...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting linked (merged) help system info...
+Collecting source files...
+Processing source files...
+Processing CSS: Resources\Stylesheets\Modern.css...
+Processing CSS: Resources\Stylesheets\Styles.css...
+Generating output files...
+Processing topic: red.htm...
+Generated red.htm
+Processing topic: Link.htm...
+Generated Link.htm
+Processing topic: Topic.htm...
+Generated Topic.htm
+Generating output skins...
+Generating alias file...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Resolving links in output files...
+Generating Search Database...
+Generating final output...
+Running CHM compiler...
+Microsoft HTML Help Compiler 4.74.8702
+Compiling d:\LocalProjects\SkinSearch3\Output\thubbard\Temporary\HELP\Content\HELP.chm
+red.htm
+Topic.htm
+Link.htm
+Data\SkinDefault\NavigationBottomGradient.jpg
+Data\SkinDefault\TocIcon.gif
+SkinSupport\jquery.js
+Data\SkinDefault\AddComment_selected.gif
+SkinSupport\Slideshow.css
+Data\SkinDefault\AddComment.gif
+SkinSupport\MadCapUtilities.js
+Data\SkinDefault\CommunityAccordionBackground_over.jpg
+Data\SkinDefault\BookOpen.gif
+Data\SkinDefault\SearchAccordionBackground.jpg
+Data\SkinDefault\GlossaryAccordionBackground.jpg
+Data\SkinDefault\RefreshTopicComments_over.gif
+SkinSupport\DropDownOpen.gif
+Data\SkinDefault\CommunityAccordionBackground.jpg
+Data\SkinDefault\Delete_selected.gif
+SkinSupport\MadCapBody.js
+Data\SkinDefault\header.png
+Data\SkinDefault\Stylesheet.xml
+Data\HelpSystem.xml
+SkinSupport\MadCapEffectsMenu.js
+Data\SkinDefault\Topic.gif
+SkinSupport\MadCap.css
+Data\SkinDefault\CommentReply.gif
+Data\SkinDefault\NavigationBottomGradient_selected.jpg
+Data\SkinDefault\Comment.gif
+SkinSupport\Images\MCSlider_loader.gif
+Data\SkinDefault\ReplyComment_selected.gif
+Data\SkinDefault\SearchAccordionBackground_over.jpg
+SkinSupport\MadCapMerging.js
+Data\SkinDefault\NavigationTopGradient.jpg
+Data\SkinDefault\AddComment_over.gif
+Data\SkinDefault\AccordionIconsBackground.jpg
+Resources\Stylesheets\Styles.css
+SkinSupport\MadCapHighlighter.js
+Data\SkinDefault\AddSearchToFavorites_over.gif
+SkinSupport\Images\MCSlider_controls.png
+Data\SkinDefault\RefreshTopicComments.gif
+Data\SkinDefault\BrowsesequencesIcon.gif
+Data\SkinDefault\SearchBG.png
+Data\SkinDefault\Delete_over.gif
+Resources\Stylesheets\Modern.css
+Data\SkinDefault\FavoritesAccordionBackground_over.jpg
+Data\SkinDefault\IndexAccordionBackground_over.jpg
+Data\SkinDefault\BrowsesequencesAccordionBackground_over.jpg
+SkinSupport\MadCapSlideshow.js
+Data\SkinDefault\AddSearchToFavorites_selected.gif
+HELP.xml
+Data\SkinDefault\IndexIcon.gif
+SkinSupport\MadCapBodyEnd.js
+Data\SkinDefault\GlossaryIcon.gif
+Data\SkinDefault\TocAccordionBackground_over.jpg
+Data\SkinDefault\AddSearchToFavorites.gif
+Data\SkinDefault\Skin.xml
+Data\SkinDefault\GlossaryAccordionBackground_over.jpg
+Data\SkinDefault\ReplyComment.gif
+Data\SkinDefault\FavoritesAccordionBackground.jpg
+SkinSupport\MadCapAliasFile.js
+Data\SkinDefault\SearchIcon.gif
+Data\SkinDefault\IndexAccordionBackground.jpg
+Data\Alias.xml
+Data\SkinDefault\CommunityIcon.gif
+Data\SkinDefault\TocAccordionBackground.jpg
+Data\SkinDefault\ToolbarBackground.jpg
+SkinSupport\MadCapEffects.js
+SkinSupport\MadCapGlobal.js
+Data\SkinDefault\IndexHeadingBG.png
+Data\SkinDefault\BrowsesequencesAccordionBackground.jpg
+Data\SkinDefault\ReplyComment_over.gif
+Data\SkinDefault\Delete.gif
+Data\SkinDefault\Book.gif
+Data\SkinDefault\FavoritesIcon.gif
+Data\SkinDefault\RefreshTopicComments_selected.gif
+SkinSupport\DropDownClosed.gif
+_Temp.hhc
+_Temp.hhk
+Compile time: 0 minutes, 0 seconds
+5	Topics
+6	Local links
+0	Internet links
+0	Graphics
+Created d:\LocalProjects\SkinSearch3\Output\thubbard\Temporary\HELP\Content\HELP.chm, 217,029 bytes
+Compression decreased file by 660,580 bytes.
+Generated ../../HELP/HELP.chm
+Saving result set...
+Output generated in 3 second(s).
+
+Done
+Saving log to "D:\LocalProjects\SkinSearch3\Output\thubbard\HELP\HELP.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>
